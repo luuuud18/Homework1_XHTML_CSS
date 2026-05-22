@@ -3,7 +3,7 @@ HOMEWORK 1: SITO WEB STATICO IN XHTML E CSS
 Autore del Progetto:
 - Nome e Cognome: Ludovica Carfora
 - Indirizzo Profilo GitHub: https://github.com/luuuud18
-- Link al Repository GitHub del Progetto: https://github.com/luuuud18/Homework1_HTML_CSS/Carfora.Ludovica.XHTML_CSS
+- Link al Repository GitHub del Progetto: https://github.com/luuuud18/Homework1_HTML_CSS
 
 
 Il sito web realizzato rappresenta la pagina ufficiale della 
