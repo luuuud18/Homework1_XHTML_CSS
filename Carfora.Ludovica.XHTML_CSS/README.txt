@@ -2,8 +2,8 @@ HOMEWORK 1: SITO WEB STATICO IN XHTML E CSS
 
 Autore del Progetto:
 - Nome e Cognome: Ludovica Carfora
-- Indirizzo Profilo GitHub: https://github.com/[IlTuoUsername]
-- Link al Repository GitHub del Progetto: https://github.com/[IlTuoUsername]/Lions-Volley-XHTML-CSS
+- Indirizzo Profilo GitHub: https://github.com/luuuud18
+- Link al Repository GitHub del Progetto: https://github.com/luuuud18/Carfora.Ludovica.XHTML_CSS
 
 
 Il sito web realizzato rappresenta la pagina ufficiale della 
