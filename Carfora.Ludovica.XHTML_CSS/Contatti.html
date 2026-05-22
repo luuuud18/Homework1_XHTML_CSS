@@ -1,0 +1,110 @@
+<?xml version = "1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>CONTATTI - Lions Volley Latina</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="StileWebSite.css" />
+</head>
+
+    <body> 
+    <div id="header">
+        <img src="images/LogoLionsVolley.jpg" alt="Logo Lions Volley Latina" id="logo" />
+        <h1>Lions Volley Latina</h1>
+        <p id="motto">"Ruggiamo sotto rete"</p>
+    </div>
+
+    <div id="barra_navigazione">
+        <ul>
+            <li><a href="Homepage.html">Home</a></li>
+            <li><a href="Squadre.html">Le Squadre</a></li>
+            <li><a href="Campionato.html">Campionato</a></li>
+            <li><a href="CalendarioPartite.html">Calendario Partite</a></li>
+            <li><a href="Contatti.html">Contatti</a></li>
+        </ul>
+    </div>
+
+    <div id="contenuto_princ">
+        <h2>Contatta la Lions Volley Latina</h2>
+        <p class="introduzione">Hai domande sui nostri corsi o vuoi venire a provare? Scrivici o vieni a trovarci in palestra!</p>
+
+        <div id="barra_sinistra">
+         <form action="" method="post" id="form_contatto">
+            <fieldset>
+                <legend>Inviaci un messaggio</legend>
+                
+                <label for="nome">Nome e Cognome:</label>
+                <input type="text" id="nome" name="nome" required="required"/>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required="required"/>
+
+                <label for="telefono">Telefono:</label>
+                <input type="tel" id="telefono" name="telefono"/>
+
+                <label for="squadra">Squadra di interesse:</label>
+                <select id="squadra" name="squadra">
+                    <option value="serie-c">Serie C</option>
+                    <option value="prima-divisione-femm">Prima Divisione Femminile</option>
+                    <option value="prima-div-masch">Prima Divisione Maschile</option>
+                    <option value="u19-masch">Under19 Maschile</option>
+                    <option value="u17-masch">Under17 Maschile</option>
+                    <option value="minivolley">Minivolley</option>
+                </select>
+
+                <label for="messaggio">Messaggio:</label>
+                <textarea id="messaggio" name="messaggio" rows="6" cols="30"></textarea>
+
+                <label for="newsletter">
+                    <input type="checkbox" name="newsletter" id="newsletter"> Iscriviti alla nostra newsletter per ricevere notizie
+                </label>
+
+                <div class="bottoni_form">
+                    <input type="submit" value="Invia Messaggio" class="bottone_invia" />
+                    <input type="reset" value="Annulla" class="bottone_reset" />
+                </div>
+            </fieldset>
+        </form>
+    </div>
+
+    <div id="barra_laterale">
+        <div class="box_info">
+            <h3>Dove siamo</h3>
+            <p><strong>Sede Allenamenti:</strong><br />
+            Palestra L.C. Dante Alighieri<br />
+            Via Alfredo Oriani, 10 - 04100 Latina (LT)</p>
+
+            <div id="mappa">
+            <a href="https://maps.app.goo.gl/CVvmv2vt3BwUFF4Q6" target="">
+                <img src="images/maps.jpg" alt="Mappa della posizione Palestra Lions Latina" />
+            </a>
+            <p><small>Clicca sulla mappa per ingrandire</small></p>
+        </div>
+            
+            <h3>Segreteria</h3>
+            <p>Lun - Ven: 16:00 - 19:30</p>
+
+            <h3>Telefono</h3>
+            <p><strong>Sede: </strong><a href="tel:+0773123456">0773 123456</a><br />
+            <strong>Mobile: </strong><a href="tel:+393471234567">+39 347 1234567</a>
+            </p>
+            
+            <h3>Email</h3>
+            <p><a href="mailto:info@lionsvolleylatina.it">info@lionsvolleylatina.it</a></p>
+        </div>
+    </div>
+
+    <div class="clear"></div>
+</div>
+    </div>
+
+</div>
+
+    <div id="footer">
+        <p>&copy; 2026 Lions Volley Latina | Tutti i diritti riservati</p>
+    </div>
+</div>
+    </body>
+</html>
